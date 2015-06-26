@@ -1,0 +1,20 @@
+First
+{
+	display: block;
+	font-family: italic;
+	font-size: large;
+	color: yellow;
+	background-color: blue;
+}
+name{
+	display: block;
+	font-family: arial;
+	font-size: large;
+	color: red;
+}
+phone{
+	display: bock;
+	font-family: arial;
+	font-size: large;
+	color: black;
+
